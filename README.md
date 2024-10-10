@@ -64,8 +64,6 @@ Below is the image illustrating the concept of the **Gamble of Numbers** game:
 
 ![Game Concept]('Game-Concept.jpg')
 
-(*Replace "path-to-image" with the correct file path to display the image.*)
-
 ## Features
 
 - **Fixed Formula**: The mathematical formula is always `_ / _ * _ + _ - _`.
