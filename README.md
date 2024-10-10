@@ -62,7 +62,7 @@ The formula is then evaluated, and the closest player input to the result wins t
 
 Below is the image illustrating the concept of the **Gamble of Numbers** game:
 
-![Game Concept]('Game-Concept.jpg')
+![Game Concept](Game-Concept.jpg)
 
 ## Features
 
