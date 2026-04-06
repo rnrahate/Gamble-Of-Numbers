@@ -1,4 +1,3 @@
-Here's the full code:
 import { useState, useEffect, useRef } from "react";
 
 const PLAYERS = ["P1", "P2", "P3", "P4", "P5"];
