@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState } from "react";
 
 const PLAYERS = ["P1", "P2", "P3", "P4", "P5"];
 const COLORS = ["#e63946", "#f4a261", "#2a9d8f", "#457b9d", "#a8dadc"];
